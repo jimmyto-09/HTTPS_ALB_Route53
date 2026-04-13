@@ -133,17 +133,6 @@ terraform apply
 
 ---
 
-## 📸 Capturas (opcional)
-
-*Agrega aquí screenshots de:*
-
-* ALB
-* EC2
-* Route 53
-* Navegador con HTTPS
-
----
-
 ## 📚 Aprendizajes
 
 Este proyecto me permitió entender:
@@ -170,6 +159,6 @@ Este proyecto me permitió entender:
 
 ## 👨‍💻 Autor
 
-Tu nombre
+Jimmy Castillo Altamirano
 
 ---
