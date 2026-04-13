@@ -69,7 +69,7 @@ https://jimmyto09.site
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/jimmyto-09/HTTPS_ALB_Route53
 cd tu-repo
 ```
 
